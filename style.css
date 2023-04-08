@@ -1,0 +1,20 @@
+body{
+
+    background-color: rgb(231, 185, 100);
+    text-align: center;
+}
+
+h2{
+    color: blue;
+    background-color: bisque;
+
+}
+
+.heading button{
+ float: right; 
+ font-size: medium;  
+}
+
+p{
+    font-size: 20px;
+}
